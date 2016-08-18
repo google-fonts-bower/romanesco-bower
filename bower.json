@@ -1,0 +1,17 @@
+{
+    "name": "romanesco-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/romanesco-bower.git"
+    },
+    "description": "Romanesco font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
